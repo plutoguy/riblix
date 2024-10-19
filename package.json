@@ -1,0 +1,20 @@
+{
+    "dependencies": {
+        "express": "^4.21.1",
+        "http-proxy": "^1.18.1",
+        "http-proxy-middleware": "^2.0.7"
+    },
+    "name": "charm",
+    "description": "Charm is an unblocked site for users to access & play Roblox freely on Now.GG",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "roblox",
+        "nowgg"
+    ],
+    "author": "Charm",
+    "license": "ISC"
+}
